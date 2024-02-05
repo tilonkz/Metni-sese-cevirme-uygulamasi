@@ -9,7 +9,7 @@ Bu basit web uygulaması, HTML, CSS ve JavaScript kullanılarak geliştirilmişt
 3. **Dil Çeşitliliği**: Birden fazla dil kullanarak metin girdinizi dinleyebilirsiniz.
 
 ## Ekran Görüntüsü
-!(https://github.com/tilonkz/Metni-sese-cevirme-uygulamasi/blob/main/screenshot.jpg)
+![Alt text](https://github.com/tilonkz/Metni-sese-cevirme-uygulamasi/blob/main/screenshot.jpg)
 
 ## Nasıl Kullanılır?
 
